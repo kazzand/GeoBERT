@@ -6,5 +6,5 @@ I used multilingual bert as text encoder + MLP and train the net as a regression
 ## Directories overview
 1. Datasets - directory contains custom torch.Dataset classes
 2. Models - directory contains model classes
-3. Data - contains tuned model and your train data preprocessed. Use git lfs to download these files or use this [link](https://drive.google.com/file/d/1nYQ4g0jqxihEw9kpXsBysY--QcoVa0sp/view?usp=sharing) to download  model checkpoints and add to data directory directrly.
+3. Data - contains tuned model and your train data preprocessed. Use git lfs to download these files or use this [link](https://drive.google.com/file/d/1nYQ4g0jqxihEw9kpXsBysY--QcoVa0sp/view?usp=sharing) to download  model checkpoints and add to data directory directly.
 4. Notebooks - contains jupyter notebooks with training and evaluating. Use evaluation.ipynb to evaluate model performance on your data.
